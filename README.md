@@ -14,10 +14,10 @@ This repository was made in order to ensure that I will never install anything m
 * #### Tileset: UNDEAD_PEOPLE (NEW VERSION)
   https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
 
-* ### Changed hotkeys:
-  * Craft Items: "0"|
-  * Item Action Menu: ","
-  * Commit Suicide: Unbound to avoid mistakes
+### Changed hotkeys:
+ * Craft Items: "0"|
+ * Item Action Menu: ","
+ * Commit Suicide: Unbound to avoid mistakes
 
 Every other hotkey is its original which you are used to.
 And if you aren't, have fun learning the layout, lol.
