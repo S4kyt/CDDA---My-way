@@ -3,14 +3,14 @@
 ### Description:
 This repository was made in order to ensure that I will never install anything manually for CDDA
 
-### Contains: 
+#### Contains: 
 CDDA Game Launcher Version 1.4.12
 https://github.com/remyroy/CDDA-Game-Launcher/releases
 
 #### Soundpack: ChestHole
 http://chezzo.com/cdda/catasounds.zip
 
-### Tileset: UNDEAD_PEOPLE (NEW VERSION)
+#### Tileset: UNDEAD_PEOPLE (NEW VERSION)
 https://github.com/SomeDeadGuy/UndeadPeopleTileset
 
 ### Changed hotkeys:
@@ -24,5 +24,5 @@ And if you aren't, have fun learning the layout, lol.
 
 
 Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA </br>
-All ownership belongs to their rightful owners, </br>
+All ownership belongs to their rightful owners. </br>
 I do not claim that I own anything from the repo mentioned above, or mine.
