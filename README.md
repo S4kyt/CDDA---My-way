@@ -14,9 +14,9 @@ http://chezzo.com/cdda/catasounds.zip
 https://github.com/SomeDeadGuy/UndeadPeopleTileset
 
 ### Changed hotkeys:
-Craft Items: "0"|
-Item Action Menu: ","
-Commit Suicide: Unbound to avoid mistakes
+* Craft Items: "0"|
+* Item Action Menu: ","
+* Commit Suicide: Unbound to avoid mistakes
 
 Every other hotkey is its original which you are used to.
 And if you aren't, have fun learning the layout, lol.
@@ -25,5 +25,4 @@ And if you aren't, have fun learning the layout, lol.
 
 Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA
 All ownership belongs to their rightful owners,
-I do not claim that I own anything from the above mentioned, or my repository.
-------------------------------------------------------------------------------
+I do not claim that I own anything from the repo mentioned above, or mine.
