@@ -1,0 +1,34 @@
+1.
+Download launcher:
+https://github.com/remyroy/CDDA-Game-Launcher/releases
+
+2.
+You download the launcher, install latest experimental build because latest stable is lame and has less stuff.
+
+3.
+Download tileset below:
+https://github.com/SomeDeadGuy/UndeadPeopleTileset
+
+4.
+You navigate to [THE PATH YOU INSTALLED TO]..\CDDA Game Launcher\cdda\gfx\[DRAG FOLDER CALLED "MSX++UnDeadPeopleEdition" HERE]
+
+5.
+Download soundpack:
+You open the launcher, navigate on the top of the window where the menu is called "Soundpacks" you choose: Chesthole's soundpack cuz its coolest
+Once you know what ur doing you'll change it however you like, but it sucks without playing sound
+
+Another tip: running out of stamina in-game means your soundpack will make sure ur character's heart beats so loud you cant enjoy the game so you do this:
+[THE PATH YOU INSTALLED TO]..\Desktop\CDDA Game Launcher\cdda\data\sound\ChestHole
+Where you open soundset.json and find the lines that have "fatique" with them by using CTRL + F
+And you change the volume for all of those to "volume" : 20,
+
+6.
+YOU FINALLY, boot up the game and navigate to settings ASAP.
+Settings -> Options -> General -> At the bottom there is "Choose soundpack" which you set to "ChestHole" from "Basic"
+Congratz, now you have sound and music.
+
+7.
+Settings -> Options -> Graphics -> Almost in the middle there is "Choose tileset" which you set to "UNDEAD_PEOPLE ( NEW VERSION )"
+
+8.
+Congratulations, you are ready to suffer learning the controls and after you finally know how to move around you can start experiencing true suffering.
