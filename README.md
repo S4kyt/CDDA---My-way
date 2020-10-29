@@ -23,6 +23,6 @@ And if you aren't, have fun learning the layout, lol.
 
 
 
-Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA
-All ownership belongs to their rightful owners,
+Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA </br>
+All ownership belongs to their rightful owners, </br>
 I do not claim that I own anything from the repo mentioned above, or mine.
