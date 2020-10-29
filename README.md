@@ -22,7 +22,8 @@ This repository was made in order to ensure that I will never install anything m
 Every other hotkey is its original which you are used to.
 And if you aren't, have fun learning the layout, lol.
 
-
+Played on experimental Build #11128
+Can be downloaded at: https://drive.google.com/file/d/14rDaixuKXTVyk03GjApQ7ZDS6Hu4N8hf/view?usp=sharing
 
 Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA </br>
 All ownership belongs to their rightful owners. </br>
