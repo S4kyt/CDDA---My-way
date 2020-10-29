@@ -1,17 +1,17 @@
 # CDDA - My-way
 
 ### Description:
-This repository was made in order to ensure that I will never install anything manually for CDDA
+This repository was made in order to ensure that I will never install anything manually for CDDA </br>
 
 #### Contains: 
 CDDA Game Launcher Version 1.4.12
-https://github.com/remyroy/CDDA-Game-Launcher/releases
+https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
 
 #### Soundpack: ChestHole
-http://chezzo.com/cdda/catasounds.zip
+http://chezzo.com/cdda/catasounds.zip </br>
 
 #### Tileset: UNDEAD_PEOPLE (NEW VERSION)
-https://github.com/SomeDeadGuy/UndeadPeopleTileset
+https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
 
 ### Changed hotkeys:
 * Craft Items: "0"|
