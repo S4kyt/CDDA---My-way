@@ -6,13 +6,13 @@ This repository was made in order to ensure that I will never install anything m
 ## Contains:
 
 * #### Launcher: CDDA Game Launcher Version 1.4.12
- https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
+  https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
 
 * #### Soundpack: ChestHole
- http://chezzo.com/cdda/catasounds.zip </br>
+  http://chezzo.com/cdda/catasounds.zip </br>
 
 * #### Tileset: UNDEAD_PEOPLE (NEW VERSION)
- https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
+  https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
 
 * ### Changed hotkeys:
   * Craft Items: "0"|
