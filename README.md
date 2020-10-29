@@ -3,8 +3,7 @@
 ### Description:
 This repository was made in order to ensure that I will never install anything manually for CDDA </br>
 
-#### Contains: 
-CDDA Game Launcher Version 1.4.12
+#### Contains: CDDA Game Launcher Version 1.4.12
 https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
 
 #### Soundpack: ChestHole
