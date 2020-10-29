@@ -3,19 +3,21 @@
 ### Description:
 This repository was made in order to ensure that I will never install anything manually for CDDA </br>
 
-#### Contains: CDDA Game Launcher Version 1.4.12
-https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
+## Contains:
 
-#### Soundpack: ChestHole
-http://chezzo.com/cdda/catasounds.zip </br>
+* #### Launcher: CDDA Game Launcher Version 1.4.12
+ https://github.com/remyroy/CDDA-Game-Launcher/releases </br>
 
-#### Tileset: UNDEAD_PEOPLE (NEW VERSION)
-https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
+* #### Soundpack: ChestHole
+ http://chezzo.com/cdda/catasounds.zip </br>
 
-### Changed hotkeys:
-* Craft Items: "0"|
-* Item Action Menu: ","
-* Commit Suicide: Unbound to avoid mistakes
+* #### Tileset: UNDEAD_PEOPLE (NEW VERSION)
+ https://github.com/SomeDeadGuy/UndeadPeopleTileset </br>
+
+* ### Changed hotkeys:
+  * Craft Items: "0"|
+  * Item Action Menu: ","
+  * Commit Suicide: Unbound to avoid mistakes
 
 Every other hotkey is its original which you are used to.
 And if you aren't, have fun learning the layout, lol.
