@@ -28,4 +28,4 @@ https://drive.google.com/file/d/14rDaixuKXTVyk03GjApQ7ZDS6Hu4N8hf/view?usp=shari
 
 Original game can be found at: https://github.com/CleverRaven/Cataclysm-DDA </br>
 All ownership belongs to their rightful owners. </br>
-I do not claim that I own anything from the repo mentioned above, or mine.
+I do not claim that I own anything from the repo mentioned above, nor mine.
